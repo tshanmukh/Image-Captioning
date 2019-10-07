@@ -2,7 +2,7 @@
 
 # Image-Captioning-Project
 
-# Instructions  
+## Instructions  
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
 ```
 git clone https://github.com/cocodataset/cocoapi.git  
